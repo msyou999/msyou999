@@ -4,8 +4,6 @@
 
 [![yoominseo's github stats](https://github-readme-stats.vercel.app/api?username=msyou999)](https://github.com/msyou999)
 
-
-</br>
 </br>
 
 ### 🚩 이력
