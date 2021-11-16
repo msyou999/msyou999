@@ -1,7 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Minseo%20Yoo&fontSize=60&animation=blink&fontAlignY=40&fontAlign=70)
-
-### Hi there 👋
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=header&text=Minseo%20Yoo&fontSize=50&animation=blink&fontAlignY=28&fontAlign=81)
+ 👋
 
 **msyou999/msyou999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
