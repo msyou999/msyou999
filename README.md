@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=header&text=Minseo%20Yoo&fontSize=50&animation=blink&fontAlignY=28&fontAlign=81)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmsyou999&count_bg=%239FBEEF&title_bg=%23848484&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmsyou999&count_bg=%238386F3&title_bg=%239E9E9E&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 [![yoominseo's github stats](https://github-readme-stats.vercel.app/api?username=msyou999)](https://github.com/msyou999)
 
