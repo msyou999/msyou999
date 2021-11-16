@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjunilhwang)](https://hits.seeyoufarm.com)
 
-[![junilhwang's github stats](https://github-readme-stats.vercel.app/api?username=msyou999)](https://github.com/msyou999)
+[![yoominseo's github stats](https://github-readme-stats.vercel.app/api?username=msyou999)](https://github.com/msyou999)
 
 
 ### 아티클
