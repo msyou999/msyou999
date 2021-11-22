@@ -24,4 +24,4 @@
 ![Swift](https://img.shields.io/badge/Swift-ea2845)
 ![Java](https://img.shields.io/badge/Java-333)
 ![Reversing](https://img.shields.io/badge/Reversing-43853d)
-!C++](https://img.shields.io/badge/C++-6db33f)
+![C++](https://img.shields.io/badge/C++-6db33f)
