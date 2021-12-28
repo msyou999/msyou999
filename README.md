@@ -8,7 +8,7 @@
 
 ### 🚩 이력
 
-- :office: [에스앤피랩](https://www.snplab.io/) 인턴 (2021. 09 ~ 현재)
+- :office: [에스앤피랩](https://www.snplab.io/) 인턴 (2021. 09 ~ 2021. 12)
 - :school: 성신여자대학교 융합보안공학과/정보시스템공학과 재학 (2018. 02 ~ 현재)
 
 ![email](https://img.shields.io/badge/msyou999@gmail.com-blue?logo=messenger&logoColor=fff)
