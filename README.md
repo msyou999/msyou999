@@ -12,7 +12,7 @@
 - :school: 성신여자대학교 융합보안공학과/정보시스템공학과 재학 (2018. 02 ~ 현재)
 
 ![email](https://img.shields.io/badge/msyou999@gmail.com-blue?logo=messenger&logoColor=fff)
-[![Blog](https://img.shields.io/badge/Blog-http%3A%2F%2Fblog.naver.com/msyou99-%23333?labelColor=%23aaa)](https://alwaysbehonest.tistory.com/)
+[![Blog](https://img.shields.io/badge/Blog-https://alwaysbehonest.tistory.com/-%23333?labelColor=%23aaa)](https://alwaysbehonest.tistory.com/)
 [![Instagram](https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/yms2o)
 
 </br>
